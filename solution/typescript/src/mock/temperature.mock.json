@@ -1,0 +1,7 @@
+{
+  "apiName": "WeatherStat",
+  "data": {
+    "temperature": 22,
+    "humidity": 60
+  }
+}

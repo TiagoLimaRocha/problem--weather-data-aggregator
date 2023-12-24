@@ -1,0 +1,7 @@
+{
+  "apiName": "WindFlow",
+  "data": {
+    "windSpeed": 15,
+    "windDirection": "NE"
+  }
+}
